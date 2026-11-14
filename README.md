@@ -223,7 +223,7 @@ MVPで作成する機能を制限して、「動くアプリ」をいち早く�
 - フレームワーク： Ruby on Rails8.1
 - DB： PostgreSQL
 - デプロイ先： render
-- 使用予定ライブラリ： Devise JWT（ログイン機能）、geminiAPI（発展機能）
+- 使用予定ライブラリ： Devise JWT（ログイン機能）、Recharts（グラフ機能）、geminiAPI（発展機能）
 
 ---
 
