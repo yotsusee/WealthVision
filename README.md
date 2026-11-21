@@ -247,3 +247,6 @@ React を用いた開発経験が浅く、学習に時間がかかる可能性�
 
 ## 11. 画面遷移図
 Figma：<https://www.figma.com/design/lVFByD1ZmuIGfIfRKkrUO9/WealthVisoin?node-id=0-1&t=ADBpDJho1lD7gVxF-1>
+
+## 12. ER図
+Drawio：<https://app.diagrams.net/#G1Df9j5B2XB7pbTw52t2ty2yboN82ZgpqT#%7B%22pageId%22%3A%22E9vhwt06UZGiy3f4iG5H%22%7D>
